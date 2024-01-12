@@ -37,3 +37,8 @@
 # context
 
 - criando o proprio contexto
+
+# reducer
+
+- na branch feat/reducer está o uso do reducer no react
+- uso do useReducer

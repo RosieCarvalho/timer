@@ -1,39 +1,41 @@
-# Bibliotecas
+# O QUE FOI USADO NO PROJETO
 
-- styled-components
-  -- themes
-  -- types do tema (@types)
+ 1. Vite js
+ 2. react js
+ 
 
-# Routes
+# Aprendizados
 
-- react-router-dom
-- layout padrão com Outlet
+## Bibliotecas
 
-# CSS
+- **estilos**: styled-components
+	-  themes
+	- types do tema (@types)
+- **roteamento**:  react-router-dom
+	- layout padrão com Outlet
+- formulários: react-hook-form -https://react-hook-form.com/
+	- integrar o hook form com libs de validação: @hookforms/resolvers
+	- validação de form: zod
+	- usando contexto no react=hook-form
+
+## CSS
 
 - estilos de botão (disabled, hover)
 - estilos de input
 
-# html
+## html
 
 - input no html - varios parametros legais
 - table html
 
-# typescript
+## typescript
 
 - configuração no style de status
 
-# formularios
+## hooks react
 
-- react-hook-form -https://react-hook-form.com/
-- integrar o hook form com libs de validação: @hookforms/resolvers
-- validação de form: zod
-- usando contexto no react=hook-form
+- useEffect : função return para resertar ultima ação
 
-# hooks react
-
-- useEfect : função return para resertar ultima ação
-
-# context
+## context
 
 - criando o proprio contexto
